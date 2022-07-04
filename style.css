@@ -1,0 +1,98 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.diet {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+
+}
+
+.half-width img {
+    width: 80%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 10px;
+    color: white;
+}
+
+#female {
+    width: 40%;
+    padding: 10% 0 0 20%;
+}
+
+.bg-first {
+    background-image: url(images/shapes/7.png);
+}
+
+.recipy {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.foodone {
+    box-shadow: 10px 10px 30px gray;
+    margin-left: 5%;
+    margin-right: 15px;
+    padding: 2%;
+    border-radius: 20px;
+
+}
+
+.foodtwo {
+    box-shadow: 10px 10px 30px gray;
+    margin-right: 5%;
+    margin-left: 15px;
+    padding: 2%;
+    border-radius: 20px;
+
+}
+
+.foodone img {
+    width: 100%;
+}
+
+.foodtwo img {
+    width: 100%;
+}
+
+.social {
+    box-shadow: 10px 10px 30px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+}
+
+.subs {
+    padding: 2% 10%;
+
+}
+
+h3 {
+    font-size: 30px;
+}
+
+.black-bg {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 50px 0;
+}
